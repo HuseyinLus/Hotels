@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Araba Satis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada24c94793f8e56aa409853b492f242f5dc951f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Araba Satis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Araba Satis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
