@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\MvcStok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|c:\\users\\luka\\source\\repos\\mvcstok\\mvcstok\\views\\categorie\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC161921-851A-478B-B2F3-DA21FDBF0942}|MvcStok\\MvcStok.csproj|solutionrelative:mvcstok\\views\\categorie\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MvcStok\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MvcStok\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:29:49.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "MvcStok\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "MvcStok\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:29:48.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "MvcStok\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "MvcStok\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:29:45.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:26:51.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T12:15:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_MainLAyout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Views\\Shared\\_MainLAyout.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Shared\\_MainLAyout.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Views\\Shared\\_MainLAyout.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Shared\\_MainLAyout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T12:15:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategorieController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Controllers\\CategorieController.cs",
+              "RelativeDocumentMoniker": "MvcStok\\Controllers\\CategorieController.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Controllers\\CategorieController.cs",
+              "RelativeToolTip": "MvcStok\\Controllers\\CategorieController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwCsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:08:11.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kategoriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Views\\Categorie\\kategoriGetir.cshtml",
+              "RelativeDocumentMoniker": "MvcStok\\Views\\Categorie\\kategoriGetir.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcStok\\MvcStok\\Views\\Categorie\\kategoriGetir.cshtml",
+              "RelativeToolTip": "MvcStok\\Views\\Categorie\\kategoriGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-15T10:02:16.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

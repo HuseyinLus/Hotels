@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|c:\\users\\luka\\source\\repos\\mvcdeneme\\mvcdeneme\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AA57F58-1B8D-4F2D-AF29-F150F5E314E7}|MvcDeneme\\MvcDeneme.csproj|solutionrelative:mvcdeneme\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "MvcDeneme\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "MvcDeneme\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T16:37:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Information.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Information.cshtml",
+              "RelativeDocumentMoniker": "MvcDeneme\\Views\\Home\\Information.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Information.cshtml",
+              "RelativeToolTip": "MvcDeneme\\Views\\Home\\Information.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T16:29:00.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MvcDeneme\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MvcDeneme\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:56:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MvcDeneme\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MvcDeneme\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:53:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcDeneme\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcDeneme\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:50:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDeneme\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcDeneme\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:40:45.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcDeneme\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MvcDeneme\\MvcDeneme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcDeneme\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:40:43.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿
+@using MvcStok.Models.Entity;
+@model List<tbl_kategoriler>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLAyout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Categorie ID</th>
+        <th>Categorie Name</th>
+        <th>DELETE</th>
+        <th>UPDATE</th>
+    </tr>
+    <tbody>
+        @foreach (var ctgr in Model)
+        {
+            <tr>
+                <th>@ctgr.KATEGORIID</th>
+                <th>@ctgr.KATEGORIAD</th>
+                <td><a href="/Categorie/DELETE/@ctgr.KATEGORIID" class="btn btn-danger">DELETE</a></td>
+                <td><a href="/Categorie/kategoriGetir/@ctgr.KATEGORIID"class="btn btn-success">UPDATE</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Categorie/NewCategorie/" class="btn btn-primary">ADD NEW CATEGORIE</a>
+

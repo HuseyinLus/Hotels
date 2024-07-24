@@ -1,0 +1,36 @@
+﻿@model MvcStok.Models.Entity.tbl_kategoriler
+    ViewBag.Title = "NewProduct";
+    Layout = "~/Views/Shared/_MainLAyout.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div>
+        <label>Product Name</label>
+        <input type="text" class="form-control" name="URUNAD" />
+    </div>
+
+    <div>
+        <label>Product Brand</label>
+        <input type="text" class="form-control" name="MARKA" />
+    </div>
+
+    <div>
+        <label>Product Categorie</label>
+        @Html.DropDownListFor(m => m.KATEGORIAD, (List<SelectListItem>)ViewBag.deger, new {@class="form-control"})
+    </div>
+
+    <div>
+        <label>Product Price</label>
+        <input type="text" class="form-control" name="URUNFIYAT" />
+    </div>
+
+    <div>
+        <label>Product Stock</label>
+        <input type="text" class="form-control" name="STOK" />
+    </div>
+
+    <div style="margin-top:15px">
+        <button class="btn btn-info">Add Product</button>
+    </div>
+
+</form>

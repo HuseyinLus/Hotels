@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\WebApplication14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52A8579D-E4B0-453F-A06B-8D3BFC46209C}|WebApplication14\\WebApplication14.csproj|c:\\users\\luka\\source\\repos\\webapplication14\\webapplication14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A8579D-E4B0-453F-A06B-8D3BFC46209C}|WebApplication14\\WebApplication14.csproj|solutionrelative:webapplication14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A8579D-E4B0-453F-A06B-8D3BFC46209C}|WebApplication14\\WebApplication14.csproj|c:\\users\\luka\\source\\repos\\webapplication14\\webapplication14\\webapplication14.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{52A8579D-E4B0-453F-A06B-8D3BFC46209C}|WebApplication14\\WebApplication14.csproj|solutionrelative:webapplication14\\webapplication14.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\WebApplication14\\WebApplication14\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication14\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\WebApplication14\\WebApplication14\\Program.cs",
+              "RelativeToolTip": "WebApplication14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:59:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication14.http",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\WebApplication14\\WebApplication14\\WebApplication14.http",
+              "RelativeDocumentMoniker": "WebApplication14\\WebApplication14.http",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\WebApplication14\\WebApplication14\\WebApplication14.http",
+              "RelativeToolTip": "WebApplication14\\WebApplication14.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-15T13:59:30.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A7090-9578-44D9-A005-42FA0A583053}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\entitylayer\\entityogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A7090-9578-44D9-A005-42FA0A583053}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entityogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\yaz okulu kayit yeni\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|solutionrelative:yaz okulu kayit yeni\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99DC2F-5274-4FA7-8885-1A60C7730153}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D99DC2F-5274-4FA7-8885-1A60C7730153}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D17F62-716C-4D1F-AC1C-DD8E723AFEA0}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9D17F62-716C-4D1F-AC1C-DD8E723AFEA0}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\yaz okulu kayit yeni\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|solutionrelative:yaz okulu kayit yeni\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A7090-9578-44D9-A005-42FA0A583053}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D49A7090-9578-44D9-A005-42FA0A583053}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\yaz okulu kayit yeni\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|solutionrelative:yaz okulu kayit yeni\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\yaz okulu kayit yeni\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|solutionrelative:yaz okulu kayit yeni\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D17F62-716C-4D1F-AC1C-DD8E723AFEA0}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\businesslogiclayer\\bllogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D17F62-716C-4D1F-AC1C-DD8E723AFEA0}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\bllogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99DC2F-5274-4FA7-8885-1A60C7730153}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\dataaccesslayer\\dalogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99DC2F-5274-4FA7-8885-1A60C7730153}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D99DC2F-5274-4FA7-8885-1A60C7730153}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\yaz okulu kayit yeni\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D99DC2F-5274-4FA7-8885-1A60C7730153}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\yaz okulu kayit yeni\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D5914C4E-6ECB-42C4-8B97-CBCD1896B86A}|C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI|solutionrelative:yaz okulu kayit yeni\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAnwHwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-10T11:51:55.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T11:39:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityLayer",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\EntityLayer\\EntityLayer.csproj",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityLayer.csproj",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\EntityLayer\\EntityLayer.csproj",
+              "RelativeToolTip": "EntityLayer\\EntityLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T11:39:17.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\packages.config",
+              "RelativeDocumentMoniker": "Yaz Okulu Kayit YENI\\packages.config",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\packages.config",
+              "RelativeToolTip": "Yaz Okulu Kayit YENI\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-10T11:33:04.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\Web.config",
+              "RelativeDocumentMoniker": "Yaz Okulu Kayit YENI\\Web.config",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\Web.config",
+              "RelativeToolTip": "Yaz Okulu Kayit YENI\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-10T11:32:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\EntityLayer\\EntityOgrenci.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityOgrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\EntityLayer\\EntityOgrenci.cs",
+              "RelativeToolTip": "EntityLayer\\EntityOgrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:23:10.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T09:20:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Yaz Okulu Kayit YENI\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\Default.aspx.cs",
+              "RelativeToolTip": "Yaz Okulu Kayit YENI\\Default.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:15:03.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BLLogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\BusinessLogicLayer\\BLLogrenci.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLLogrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\BusinessLogicLayer\\BLLogrenci.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLLogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:02:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DALogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\DataAccessLayer\\DALogrenci.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALogrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\DataAccessLayer\\DALogrenci.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALogrenci.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:48:30.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\DataAccessLayer\\Baglanti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\DataAccessLayer\\Baglanti.cs",
+              "RelativeToolTip": "DataAccessLayer\\Baglanti.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:21:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\Default.aspx",
+              "RelativeDocumentMoniker": "Yaz Okulu Kayit YENI\\Default.aspx",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\Default.aspx",
+              "RelativeToolTip": "Yaz Okulu Kayit YENI\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T07:57:17.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\MasterPage.master",
+              "RelativeDocumentMoniker": "Yaz Okulu Kayit YENI\\MasterPage.master",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yaz Okulu Kayit YENI\\Yaz Okulu Kayit YENI\\MasterPage.master",
+              "RelativeToolTip": "Yaz Okulu Kayit YENI\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T07:55:24.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

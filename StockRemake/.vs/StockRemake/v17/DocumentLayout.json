@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\StockRemake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6447AA4-DF87-4760-911D-F629FBBB1351}|StockRemake\\StockRemake.vbproj|c:\\users\\luka\\source\\repos\\stockremake\\stockremake\\views\\shared\\_layout.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6447AA4-DF87-4760-911D-F629FBBB1351}|StockRemake\\StockRemake.vbproj|solutionrelative:stockremake\\views\\shared\\_layout.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.vbhtml",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\StockRemake\\StockRemake\\Views\\Shared\\_Layout.vbhtml",
+              "RelativeDocumentMoniker": "StockRemake\\Views\\Shared\\_Layout.vbhtml",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\StockRemake\\StockRemake\\Views\\Shared\\_Layout.vbhtml",
+              "RelativeToolTip": "StockRemake\\Views\\Shared\\_Layout.vbhtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-07-15T12:14:27.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

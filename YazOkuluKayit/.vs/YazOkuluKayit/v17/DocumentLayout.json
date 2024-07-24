@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAFE4A-552C-4B0C-95FB-83D2A3459B02}|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\yazokulukayit\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DAFE4A-552C-4B0C-95FB-83D2A3459B02}|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit|solutionrelative:yazokulukayit\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A53726-430D-4F6B-B198-33BBE65692BC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\businesslogiclayer\\bllogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A53726-430D-4F6B-B198-33BBE65692BC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\bllogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAFE4A-552C-4B0C-95FB-83D2A3459B02}|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\yazokulukayit\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{70DAFE4A-552C-4B0C-95FB-83D2A3459B02}|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit|solutionrelative:yazokulukayit\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48305756-1A5B-4264-9FCE-98A4A8D9F726}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\dataacesslayer\\dalogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48305756-1A5B-4264-9FCE-98A4A8D9F726}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\dalogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A53726-430D-4F6B-B198-33BBE65692BC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A53726-430D-4F6B-B198-33BBE65692BC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48305756-1A5B-4264-9FCE-98A4A8D9F726}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\dataacesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48305756-1A5B-4264-9FCE-98A4A8D9F726}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48305756-1A5B-4264-9FCE-98A4A8D9F726}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\dataacesslayer\\dataacesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48305756-1A5B-4264-9FCE-98A4A8D9F726}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\dataacesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\entitylayer\\entitybasvuruform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitybasvuruform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\entitylayer\\entitydersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitydersler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\entitylayer\\entityogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entityogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\entitylayer\\entityogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D04D235-56C9-4401-B229-0BB72C002856}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entityogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DAFE4A-552C-4B0C-95FB-83D2A3459B02}|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit|c:\\users\\luka\\source\\repos\\yazokulukayit\\yazokulukayit\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{70DAFE4A-552C-4B0C-95FB-83D2A3459B02}|C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit|solutionrelative:yazokulukayit\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A53726-430D-4F6B-B198-33BBE65692BC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\yazokulukayit\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01A53726-430D-4F6B-B198-33BBE65692BC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "YazOkuluKayit\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit\\Default.aspx.cs",
+              "RelativeToolTip": "YazOkuluKayit\\Default.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wBIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:13:51.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\DataAcessLayer\\DALogrenci.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\DALogrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\DataAcessLayer\\DALogrenci.cs",
+              "RelativeToolTip": "DataAcessLayer\\DALogrenci.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:36:09.987Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\Class1.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:04:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAcessLayer",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\DataAcessLayer\\DataAcessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAcessLayer\\DataAcessLayer.csproj",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\DataAcessLayer\\DataAcessLayer.csproj",
+              "RelativeToolTip": "DataAcessLayer\\DataAcessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T08:31:41.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BLLogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\BLLogrenci.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLLogrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\BLLogrenci.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLLogrenci.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:22:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityBasvuruForm.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityBasvuruForm.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityBasvuruForm.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityBasvuruForm.cs",
+              "RelativeToolTip": "EntityLayer\\EntityBasvuruForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:15:20.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityDersler.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityDersler.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityDersler.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityDersler.cs",
+              "RelativeToolTip": "EntityLayer\\EntityDersler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:11:39.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\DataAcessLayer\\Baglanti.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\DataAcessLayer\\Baglanti.cs",
+              "RelativeToolTip": "DataAcessLayer\\Baglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:36:14.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit\\Default.aspx",
+              "RelativeDocumentMoniker": "YazOkuluKayit\\Default.aspx",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit\\Default.aspx",
+              "RelativeToolTip": "YazOkuluKayit\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T13:34:59.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntityOgretmen.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityOgretmen.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityOgretmen.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityOgretmen.cs",
+              "RelativeToolTip": "EntityLayer\\EntityOgretmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:05:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit\\MasterPage.master",
+              "RelativeDocumentMoniker": "YazOkuluKayit\\MasterPage.master",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\YazOkuluKayit\\MasterPage.master",
+              "RelativeToolTip": "YazOkuluKayit\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T07:55:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T14:48:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityOgrenci.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityOgrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\EntityLayer\\EntityOgrenci.cs",
+              "RelativeToolTip": "EntityLayer\\EntityOgrenci.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:22:54.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@model MvcStok.Models.Entity.tbl_kategoriler
+
+@{
+    ViewBag.Title = "kategoriGetir";
+    Layout = "~/Views/Shared/_MainLAyout.cshtml";
+}
+
+@using (Html.BeginForm("UPDATE", "Categorie", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.KATEGORIID)
+        @Html.TextBoxFor(m => m.KATEGORIID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.KATEGORIAD)
+        @Html.TextBoxFor(m => m.KATEGORIAD, new { @class = "form-control" })
+    </div>
+    <div>
+        <button class="btn btn-warning">Update Categorie</button>
+    </div>
+}

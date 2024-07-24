@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\WebSite3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F6F0B-DBD1-4A4E-8DE5-96FD5F6FBCC7}|C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3|C:\\Users\\Luka\\source\\repos\\WebSite3\\website3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CC1F6F0B-DBD1-4A4E-8DE5-96FD5F6FBCC7}|C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3|solutionrelative:website3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F6F0B-DBD1-4A4E-8DE5-96FD5F6FBCC7}|C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3|C:\\Users\\Luka\\source\\repos\\WebSite3\\website3\\app_code\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC1F6F0B-DBD1-4A4E-8DE5-96FD5F6FBCC7}|C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3|solutionrelative:website3\\app_code\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1F6F0B-DBD1-4A4E-8DE5-96FD5F6FBCC7}|C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3|c:\\users\\luka\\source\\repos\\website3\\website3\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CC1F6F0B-DBD1-4A4E-8DE5-96FD5F6FBCC7}|C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3|solutionrelative:website3\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3\\MasterPage.master",
+              "RelativeDocumentMoniker": "WebSite3\\MasterPage.master",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3\\MasterPage.master",
+              "RelativeToolTip": "WebSite3\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T21:42:11.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3\\App_Code\\Class1.cs",
+              "RelativeDocumentMoniker": "WebSite3\\App_Code\\Class1.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3\\App_Code\\Class1.cs",
+              "RelativeToolTip": "WebSite3\\App_Code\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:54:36.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3\\Default.aspx",
+              "RelativeDocumentMoniker": "WebSite3\\Default.aspx",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\WebSite3\\WebSite3\\Default.aspx",
+              "RelativeToolTip": "WebSite3\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T09:12:01.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

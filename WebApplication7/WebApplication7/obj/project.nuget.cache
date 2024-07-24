@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "OpOozotkFHQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Luka\\source\\repos\\WebApplication7\\WebApplication7\\WebApplication7.fsproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (>= 6.0.31)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, C:\\Program Files\\dotnet\\sdk\\8.0.303\\FSharp\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'FSharp.Core (>= 8.0.301)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, C:\\Program Files\\dotnet\\sdk\\8.0.303\\FSharp\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "FSharp.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

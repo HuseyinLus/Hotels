@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\Solution4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2895AA77-D222-493D-A6A8-A9A912D49243}|HotelFinder.Business\\HotelFinder.Business.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.business\\abstract\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2895AA77-D222-493D-A6A8-A9A912D49243}|HotelFinder.Business\\HotelFinder.Business.csproj|solutionrelative:hotelfinder.business\\abstract\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F89F9-20E2-43DD-9D57-C9698230FECC}|HotelFinder.DataAcces\\HotelFinder.DataAcces.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.dataacces\\abstract\\ihotelrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F89F9-20E2-43DD-9D57-C9698230FECC}|HotelFinder.DataAcces\\HotelFinder.DataAcces.csproj|solutionrelative:hotelfinder.dataacces\\abstract\\ihotelrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D64F9B-BD50-4533-9DAC-067A762D0A1C}|HotelFinder.Entities\\HotelFinder.Entities.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D64F9B-BD50-4533-9DAC-067A762D0A1C}|HotelFinder.Entities\\HotelFinder.Entities.csproj|solutionrelative:hotelfinder.entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F89F9-20E2-43DD-9D57-C9698230FECC}|HotelFinder.DataAcces\\HotelFinder.DataAcces.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.dataacces\\concrete\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F89F9-20E2-43DD-9D57-C9698230FECC}|HotelFinder.DataAcces\\HotelFinder.DataAcces.csproj|solutionrelative:hotelfinder.dataacces\\concrete\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2895AA77-D222-493D-A6A8-A9A912D49243}|HotelFinder.Business\\HotelFinder.Business.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.business\\concrete\\hotelmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2895AA77-D222-493D-A6A8-A9A912D49243}|HotelFinder.Business\\HotelFinder.Business.csproj|solutionrelative:hotelfinder.business\\concrete\\hotelmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ACF307-CD1A-4CCF-9834-0E815E3DF3C5}|HotelFinder.API\\HotelFinder.API.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ACF307-CD1A-4CCF-9834-0E815E3DF3C5}|HotelFinder.API\\HotelFinder.API.csproj|solutionrelative:hotelfinder.api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ACF307-CD1A-4CCF-9834-0E815E3DF3C5}|HotelFinder.API\\HotelFinder.API.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.api\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ACF307-CD1A-4CCF-9834-0E815E3DF3C5}|HotelFinder.API\\HotelFinder.API.csproj|solutionrelative:hotelfinder.api\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172F89F9-20E2-43DD-9D57-C9698230FECC}|HotelFinder.DataAcces\\HotelFinder.DataAcces.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.dataacces\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172F89F9-20E2-43DD-9D57-C9698230FECC}|HotelFinder.DataAcces\\HotelFinder.DataAcces.csproj|solutionrelative:hotelfinder.dataacces\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ACF307-CD1A-4CCF-9834-0E815E3DF3C5}|HotelFinder.API\\HotelFinder.API.csproj|c:\\users\\luka\\source\\repos\\solution4\\hotelfinder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ACF307-CD1A-4CCF-9834-0E815E3DF3C5}|HotelFinder.API\\HotelFinder.API.csproj|solutionrelative:hotelfinder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 118,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.API\\Program.cs",
+              "RelativeDocumentMoniker": "HotelFinder.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.API\\Program.cs",
+              "RelativeToolTip": "HotelFinder.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:44:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.DataAcces\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "HotelFinder.DataAcces\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.DataAcces\\HotelDbContext.cs",
+              "RelativeToolTip": "HotelFinder.DataAcces\\HotelDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:35:38.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.API\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "HotelFinder.API\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.API\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "HotelFinder.API\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:33:29.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.API\\HotelService.cs",
+              "RelativeDocumentMoniker": "HotelFinder.API\\HotelService.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.API\\HotelService.cs",
+              "RelativeToolTip": "HotelFinder.API\\HotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:33:27.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.Business\\Abstract\\IHotelService.cs",
+              "RelativeDocumentMoniker": "HotelFinder.Business\\Abstract\\IHotelService.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.Business\\Abstract\\IHotelService.cs",
+              "RelativeToolTip": "HotelFinder.Business\\Abstract\\IHotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:32:40.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelManeger.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "RelativeDocumentMoniker": "HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "RelativeToolTip": "HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:32:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.DataAcces\\Concrete\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelFinder.DataAcces\\Concrete\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.DataAcces\\Concrete\\HotelRepository.cs",
+              "RelativeToolTip": "HotelFinder.DataAcces\\Concrete\\HotelRepository.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:30:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHotelRepository1.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.DataAcces\\Abstract\\IHotelRepository1.cs",
+              "RelativeDocumentMoniker": "HotelFinder.DataAcces\\Abstract\\IHotelRepository1.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.DataAcces\\Abstract\\IHotelRepository1.cs",
+              "RelativeToolTip": "HotelFinder.DataAcces\\Abstract\\IHotelRepository1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:29:20.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelFinder.Entities\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution4\\HotelFinder.Entities\\Hotel.cs",
+              "RelativeToolTip": "HotelFinder.Entities\\Hotel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA5wBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:29:18.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

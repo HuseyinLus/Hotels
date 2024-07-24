@@ -1,0 +1,14 @@
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\bin\Debug\net6.0\HotelFinder.entities.deps.json
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\bin\Debug\net6.0\HotelFinder.entities.runtimeconfig.json
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\bin\Debug\net6.0\HotelFinder.entities.dll
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\bin\Debug\net6.0\HotelFinder.entities.pdb
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.AssemblyInfo.cs
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.dll
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\refint\HotelFinder.entities.dll
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.pdb
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\HotelFinder.entities.genruntimeconfig.cache
+C:\Users\Luka\source\repos\Solution1\HotelFinder.entities\obj\Debug\net6.0\ref\HotelFinder.entities.dll

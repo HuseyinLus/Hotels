@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\WebSite2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DF9152-390F-41FD-998E-9A5689193D42}|C:\\Users\\Luka\\source\\repos\\WebSite2\\WebSite2|c:\\users\\luka\\source\\repos\\website2\\website2\\kullanici.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{32DF9152-390F-41FD-998E-9A5689193D42}|C:\\Users\\Luka\\source\\repos\\WebSite2\\WebSite2|solutionrelative:website2\\kullanici.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici.master",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\WebSite2\\WebSite2\\Kullanici.master",
+              "RelativeDocumentMoniker": "WebSite2\\Kullanici.master",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\WebSite2\\WebSite2\\Kullanici.master*",
+              "RelativeToolTip": "WebSite2\\Kullanici.master*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T21:30:41.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

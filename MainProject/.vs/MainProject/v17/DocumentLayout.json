@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\MainProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853ECF10-A0B1-48E5-84F8-5233A96B7AD0}|C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject|C:\\Users\\Luka\\source\\repos\\MainProject\\mainproject\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853ECF10-A0B1-48E5-84F8-5233A96B7AD0}|C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject|solutionrelative:mainproject\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5FAC21-3CFE-4CE6-8BD1-C9519BB37741}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\mainproject\\businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5FAC21-3CFE-4CE6-8BD1-C9519BB37741}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C17C6-70D8-4BA8-93D9-BF094C462657}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\mainproject\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A6C17C6-70D8-4BA8-93D9-BF094C462657}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C17C6-70D8-4BA8-93D9-BF094C462657}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\mainproject\\dataaccesslayer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C17C6-70D8-4BA8-93D9-BF094C462657}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C17C6-70D8-4BA8-93D9-BF094C462657}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\mainproject\\dataaccesslayer\\dalstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C17C6-70D8-4BA8-93D9-BF094C462657}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5FAC21-3CFE-4CE6-8BD1-C9519BB37741}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\luka\\source\\repos\\mainproject\\businesslogiclayer\\bllogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5FAC21-3CFE-4CE6-8BD1-C9519BB37741}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\bllogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853ECF10-A0B1-48E5-84F8-5233A96B7AD0}|C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject|C:\\Users\\Luka\\source\\repos\\MainProject\\mainproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{853ECF10-A0B1-48E5-84F8-5233A96B7AD0}|C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject|solutionrelative:mainproject\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0BE1BE-718A-44FA-AB4C-64E8AF12BF6E}|EntityLayer\\EntityLayer.csproj|c:\\users\\luka\\source\\repos\\mainproject\\entitylayer\\entitystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0BE1BE-718A-44FA-AB4C-64E8AF12BF6E}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853ECF10-A0B1-48E5-84F8-5233A96B7AD0}|C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject|C:\\Users\\Luka\\source\\repos\\MainProject\\mainproject\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{853ECF10-A0B1-48E5-84F8-5233A96B7AD0}|C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject|solutionrelative:mainproject\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T14:39:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "MainProject\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject\\Default.aspx.cs",
+              "RelativeToolTip": "MainProject\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:31:38.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\BusinessLogicLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\BusinessLogicLayer\\Class1.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:25:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLLogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\BusinessLogicLayer\\BLLogrenci.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLLogrenci.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\BusinessLogicLayer\\BLLogrenci.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLLogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:23:51.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALstudents.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\DataAccessLayer\\DALstudents.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALstudents.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\DataAccessLayer\\DALstudents.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALstudents.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:05:11.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\DataAccessLayer\\Connection.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Connection.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\DataAccessLayer\\Connection.cs",
+              "RelativeToolTip": "DataAccessLayer\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:57:41.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\EntityLayer\\EntityStudent.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityStudent.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\EntityLayer\\EntityStudent.cs",
+              "RelativeToolTip": "EntityLayer\\EntityStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:53:42.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject\\Default.aspx",
+              "RelativeDocumentMoniker": "MainProject\\Default.aspx",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject\\Default.aspx",
+              "RelativeToolTip": "MainProject\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T13:47:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject\\MasterPage.master",
+              "RelativeDocumentMoniker": "MainProject\\MasterPage.master",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\MainProject\\MainProject\\MasterPage.master",
+              "RelativeToolTip": "MainProject\\MasterPage.master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T13:42:07.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04B9E91-98B4-44F5-934B-1B8E530F81ED}|C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2|c:\\users\\luka\\source\\repos\\yemek sitesi 2\\yemek sitesi 2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D04B9E91-98B4-44F5-934B-1B8E530F81ED}|C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2|solutionrelative:yemek sitesi 2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04B9E91-98B4-44F5-934B-1B8E530F81ED}|C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2|c:\\users\\luka\\source\\repos\\yemek sitesi 2\\yemek sitesi 2\\tasarim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D04B9E91-98B4-44F5-934B-1B8E530F81ED}|C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2|solutionrelative:yemek sitesi 2\\tasarim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2\\Default.aspx",
+              "RelativeDocumentMoniker": "Yemek sitesi 2\\Default.aspx",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2\\Default.aspx",
+              "RelativeToolTip": "Yemek sitesi 2\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T20:01:06.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasarim.css",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2\\Tasarim.css",
+              "RelativeDocumentMoniker": "Yemek sitesi 2\\Tasarim.css",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Yemek sitesi 2\\Yemek sitesi 2\\Tasarim.css",
+              "RelativeToolTip": "Yemek sitesi 2\\Tasarim.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-07T20:07:41.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

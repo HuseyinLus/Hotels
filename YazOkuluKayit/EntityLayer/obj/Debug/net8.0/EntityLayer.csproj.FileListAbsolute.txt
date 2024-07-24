@@ -1,0 +1,12 @@
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\Luka\source\repos\YazOkuluKayit\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll

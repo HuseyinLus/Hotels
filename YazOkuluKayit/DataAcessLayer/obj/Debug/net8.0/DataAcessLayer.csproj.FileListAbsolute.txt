@@ -1,0 +1,15 @@
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.deps.json
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAces.3D70AC44.Up2Date
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\refint\DataAcessLayer.dll
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.pdb
+C:\Users\Luka\source\repos\YazOkuluKayit\DataAcessLayer\obj\Debug\net8.0\ref\DataAcessLayer.dll

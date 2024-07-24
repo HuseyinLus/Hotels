@@ -1,0 +1,30 @@
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\appsettings.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\Araba Satis.staticwebassets.runtime.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\Araba Satis.exe
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\Araba Satis.deps.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\Araba Satis.runtimeconfig.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\Araba Satis.dll
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\bin\Debug\net8.0\Araba Satis.pdb
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.AssemblyInfo.cs
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.RazorAssemblyInfo.cache
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.RazorAssemblyInfo.cs
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets\msbuild.Araba Satis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets\msbuild.build.Araba Satis.props
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Araba Satis.props
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Araba Satis.props
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\scopedcss\bundle\Araba Satis.styles.css
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\scopedcss\projectbundle\Araba Satis.bundle.scp.css
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.dll
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\refint\Araba Satis.dll
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.pdb
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\Araba Satis.genruntimeconfig.cache
+C:\Users\Luka\source\repos\Araba Satis\Araba Satis\obj\Debug\net8.0\ref\Araba Satis.dll

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "msDOe76AyUc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Luka\\source\\repos\\YazOkuluKayit\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project DataAcessLayer is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project DataAcessLayer supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "DataAcessLayer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EntityLayer is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project EntityLayer supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "EntityLayer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

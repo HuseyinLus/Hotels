@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aloeV6sDc3Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luka\\source\\repos\\WebApplication15\\WebApplication15\\WebApplication15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

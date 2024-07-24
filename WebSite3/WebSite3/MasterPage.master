@@ -1,0 +1,55 @@
+﻿<table>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <br class="Apple-interchange-newline">
+    <div style="height:150px; width:700px; margin-left:300px; background-color:aqua;">
+
+    </div>
+        <div style="margin-left:300px; width:700px; height:20px";>&nbsp;</div>
+        <br class="Apple-interchange-newline">
+        <div style="margin-left:300px; width:700px; height:20px; background-color:aqua;">
+            <table>
+                <tr>
+                    <td>ANA SAYFA</td>
+                    <td>GUNUN YEMEGI</td>
+                    <td>TARIF ONER</td>
+                    <td>HAKKIMIZDA</td>
+                    <td>ILETISIM</td>
+                </tr>
+            </table>
+        </div>
+        <div style="margin-left: 300px; width: 700px; height: 20px; background-color: aqua;">&nbsp;</div>
+        <div style="margin-left:300px; width:700px; height:20px";>&nbsp;</div>
+
+        <div style="margin-left:300px; width:200px; height:200px; background-color:aqua;">
+            <div style="margin-left:250px; height:350px;width:450px;background-color:aqua;">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                </asp:ContentPlaceHolder>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
+

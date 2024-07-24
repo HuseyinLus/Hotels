@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E779718-B505-4981-B678-8896E57F0364}|HotelFinder.entities\\HotelFinder.entities.csproj|c:\\users\\luka\\source\\repos\\solution1\\hotelfinder.entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E779718-B505-4981-B678-8896E57F0364}|HotelFinder.entities\\HotelFinder.entities.csproj|solutionrelative:hotelfinder.entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E530CC-D472-4E79-AF06-8404E6EDAB72}|HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj|c:\\users\\luka\\source\\repos\\solution1\\hotelfinder.dataaccess\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E530CC-D472-4E79-AF06-8404E6EDAB72}|HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj|solutionrelative:hotelfinder.dataaccess\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.DataAccess\\Migrations\\20240716133528_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelFinder.DataAccess\\Migrations\\20240716133528_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240716133528_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.DataAccess\\Migrations\\20240716133528_initialCreate.cs",
+              "RelativeDocumentMoniker": "HotelFinder.DataAccess\\Migrations\\20240716133528_initialCreate.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.DataAccess\\Migrations\\20240716133528_initialCreate.cs",
+              "RelativeToolTip": "HotelFinder.DataAccess\\Migrations\\20240716133528_initialCreate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:35:28.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoteldbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.DataAccess\\HoteldbContext.cs",
+              "RelativeDocumentMoniker": "HotelFinder.DataAccess\\HoteldbContext.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.DataAccess\\HoteldbContext.cs",
+              "RelativeToolTip": "HotelFinder.DataAccess\\HoteldbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:02:57.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelFinder.entities\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution1\\HotelFinder.entities\\Hotel.cs",
+              "RelativeToolTip": "HotelFinder.entities\\Hotel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:57:54.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\Business.450209FB.Up2Date
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\Luka\source\repos\MainProject\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll

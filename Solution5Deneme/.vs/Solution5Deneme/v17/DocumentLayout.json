@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE1045-DD18-4558-B67C-041D483D571C}|WebApplication2\\WebApplication2.csproj|c:\\users\\luka\\source\\repos\\solution5deneme\\webapplication2\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE1045-DD18-4558-B67C-041D483D571C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FE1045-DD18-4558-B67C-041D483D571C}|WebApplication2\\WebApplication2.csproj|c:\\users\\luka\\source\\repos\\solution5deneme\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FE1045-DD18-4558-B67C-041D483D571C}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD788437-7513-4097-8E61-9E8D2FEF1EA2}|HotelFinder.Business\\HotelFinder.Business.csproj|c:\\users\\luka\\source\\repos\\solution5deneme\\hotelfinder.business\\abstract\\ihotelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD788437-7513-4097-8E61-9E8D2FEF1EA2}|HotelFinder.Business\\HotelFinder.Business.csproj|solutionrelative:hotelfinder.business\\abstract\\ihotelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD788437-7513-4097-8E61-9E8D2FEF1EA2}|HotelFinder.Business\\HotelFinder.Business.csproj|c:\\users\\luka\\source\\repos\\solution5deneme\\hotelfinder.business\\concrete\\hotelmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD788437-7513-4097-8E61-9E8D2FEF1EA2}|HotelFinder.Business\\HotelFinder.Business.csproj|solutionrelative:hotelfinder.business\\concrete\\hotelmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534D8584-A4DD-4310-8EC2-09C9B4C0DBDF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\solution5deneme\\dataaccesslayer\\abstract\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534D8584-A4DD-4310-8EC2-09C9B4C0DBDF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534D8584-A4DD-4310-8EC2-09C9B4C0DBDF}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\luka\\source\\repos\\solution5deneme\\dataaccesslayer\\concrete\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534D8584-A4DD-4310-8EC2-09C9B4C0DBDF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 118,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\WebApplication2\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\WebApplication2\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:53:12.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:52:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHotelServices.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\HotelFinder.Business\\Abstract\\IHotelServices.cs",
+              "RelativeDocumentMoniker": "HotelFinder.Business\\Abstract\\IHotelServices.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\HotelFinder.Business\\Abstract\\IHotelServices.cs",
+              "RelativeToolTip": "HotelFinder.Business\\Abstract\\IHotelServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:53:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelManeger.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "RelativeDocumentMoniker": "HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "RelativeToolTip": "HotelFinder.Business\\Concrete\\HotelManeger.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:53:40.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\DataAccessLayer\\Concrete\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\DataAccessLayer\\Concrete\\HotelRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\HotelRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:53:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\DataAccessLayer\\Abstract\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\Luka\\source\\repos\\Solution5Deneme\\DataAccessLayer\\Abstract\\IHotelRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IHotelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:53:21.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
